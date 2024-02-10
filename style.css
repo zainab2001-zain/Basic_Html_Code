@@ -1,0 +1,17 @@
+body {
+    background-color: powderblue;
+}
+
+.External {
+    color: rgb(50, 14, 61);
+    margin: 50px;
+}
+
+.Externalpara {
+    color: rgb(14, 39, 41);
+    font-family: courier;
+    font-size: 160%;
+    border: 2px solid powderblue;
+    padding: 30px;
+    
+}
